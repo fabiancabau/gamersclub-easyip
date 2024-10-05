@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Gamers Club EasyIP",
-  "version": "1.1",
+  "version": "1.20",
   "description": "Mostra o IP da lobby assim que fica disponível, mesmo durante a propaganda!",
   "permissions": [],
   "content_scripts": [
